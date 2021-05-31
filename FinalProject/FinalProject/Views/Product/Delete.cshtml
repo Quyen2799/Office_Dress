@@ -1,0 +1,89 @@
+﻿@model DataProvider.Product
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PRODUCTNAME)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PRODUCTNAME)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IDCATE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IDCATE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SIZE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SIZE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PRICE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PRICE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MATERIAL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MATERIAL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HDBQ)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HDBQ)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PRODUCTIMAGE)
+        </dt>
+        <dd>
+            <img class="img-responsive" src="~/Content/Images/@(Model.PRODUCTIMAGE)" style="width:200px; height: 300px">
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

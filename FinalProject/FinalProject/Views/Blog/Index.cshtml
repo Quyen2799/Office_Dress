@@ -1,0 +1,80 @@
+﻿@model PagedList.IPagedList<DataProvider.Blog>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Admin Page";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="dashboard-wrapper">
+    <div class="dashboard-ecommerce">
+        <div class="container-fluid dashboard-content ">
+            <h2>Blogs</h2>
+
+            <p>
+                @Html.ActionLink("Create New", "Create")
+            </p>
+            @using (Html.BeginForm("Index", "Blog", FormMethod.Get))
+            {
+                <p>
+                    @Html.Label("SearchName", "Find by name: ")
+                    @Html.TextBox("SearchName", ViewBag.CurrentFilter as string, new { style = "width: 160px;" })
+                    <input type="submit" value="Search" />
+                </p>
+            }
+            <table class="table">
+                <tr>
+                    <th>
+                        ID
+                    </th>
+                    <th>
+                        TITLE
+                    </th>
+                    <th>
+                        CONTENT
+                    </th>
+                    <th>
+                        DATEPOST
+                    </th>
+                    <th>
+                        BLOG IMAGE
+                    </th>
+                    <th></th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ID)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TITLE)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CONTENT)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DATEPOST)
+                        </td>
+                        <td>
+                            <img class="img-responsive" src="~/Content/Images/@(item.BLOGIMAGE)" style="width:70px; height: 100px">
+                        </td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                            @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                            @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                        </td>
+                    </tr>
+                }
+            </table>
+            Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+            @Html.PagedListPager(Model, page => Url.Action("Index",
+                new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))
+            <div>
+                @Html.ActionLink("Back to manage", "Index", "Admin")
+            </div>
+        </div>
+    </div>
+</div>

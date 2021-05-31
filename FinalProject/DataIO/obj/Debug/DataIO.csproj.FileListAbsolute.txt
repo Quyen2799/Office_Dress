@@ -1,0 +1,52 @@
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\DataIO.dll.config
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\DataIO.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\DataIO.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\DataProvider.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\EntityFramework.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\DataProvider.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\DataProvider.dll.config
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\EntityFramework.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\obj\Debug\DataIO.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\obj\Debug\DataIO.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\obj\Debug\DataIO.csproj.CopyComplete
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\obj\Debug\DataIO.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\obj\Debug\DataIO.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.Mvc.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.WebPages.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.Razor.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.Mvc.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.WebPages.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.Razor.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\DataIO\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\DataIO.dll.config
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\DataIO.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\DataIO.pdb
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\DataProvider.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\EntityFramework.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.Mvc.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.WebPages.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.WebPages.Razor.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.Razor.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\DataProvider.pdb
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\DataProvider.dll.config
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\EntityFramework.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.Mvc.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.WebPages.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.WebPages.Razor.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.Razor.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\obj\Debug\DataIO.csprojAssemblyReference.cache
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\obj\Debug\DataIO.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\obj\Debug\DataIO.csproj.CopyComplete
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\obj\Debug\DataIO.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\DataIO\obj\Debug\DataIO.pdb

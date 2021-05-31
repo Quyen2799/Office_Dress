@@ -1,0 +1,15 @@
+﻿@{
+    //Layout = "~/Views/Shared/_Layout.cshtml";
+    string CurrentName = Convert.ToString(HttpContext.Current.Request.RequestContext.RouteData.Values["Controller"]);
+    string clayout = "";
+    switch (CurrentName)
+    {
+        case "Home":
+            clayout = "~/Views/Shared/_Layout.cshtml";
+            break;
+        default:
+            clayout = "~/Views/Shared/_LayoutPage1.cshtml";
+            break;
+    }
+    Layout = clayout;
+}

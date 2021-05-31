@@ -1,0 +1,92 @@
+﻿@model DataProvider.Product
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="detail-product row container" style="width:90%; margin:40px auto;">
+    <div class="col-lg-6 detail-product-img">
+        <img src="~/Content/Images/@Model.PRODUCTIMAGE" alt="">
+    </div>
+    <div class="col-lg-6 detail-product-content row">
+        <div class="detail-product-item-text">
+            <h5 class="text-center">@Model.PRODUCTNAME</h5>
+            <h6><small><del>@ViewBag.proPrice</del></small> @Model.PRICE<sup>đ</sup></h6>
+
+            <div class="chooseSize d-flex justify-content-start my-3">
+                <h6>Size</h6>
+                <input id="size" type="text" value="">
+            </div>
+            <p>
+                <button onclick="changeSizeS()">S</button>
+                <button onclick="changeSizeM()">M</button>
+                <button onclick="changeSizeL()">L</button>
+                <button onclick="changeSizeXL()">XL</button>
+            </p>
+            <p class="text-danger" id="textSize">Vui lòng chọn size *</p> <br>
+
+            <a href="~/ShoppingCart/AddToCart/@Model.ID">
+                 <button id="shoppingBtn"><i class="fa fa-shopping-cart"></i> Mua hàng</button>
+            </a>
+           
+
+            <div class="detail-item-product mt-3">
+                <ul class="nav nav-tabs" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link active" id="home-tab" data-toggle="tab" href="#chitiet" role="tab" aria-controls="chitiet" aria-selected="true">Chất Liệu</a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" id="profile-tab" data-toggle="tab" href="#baoquan" role="tab" aria-controls="baoquan" aria-selected="false">Bảo Quản</a>
+                    </li>
+                </ul>
+                <div class="tab-content mt-3" id="myTabContent">
+                    <div class="tab-pane fade show active" id="chitiet" role="tabpanel" aria-labelledby="home-tab">
+                        <p>Vải thun co giãn nhẹ.</p>
+                        <div class="title-content-container d-flex justify-content-between">
+                        <div class="title-detail font-weight-bold">
+                            <p>Dòng sản phẩm</p>
+                            <p>Nhóm sản phẩm</p>
+                            <p>Chất liệu</p>
+                        </div>
+                        <div class="content-detail">
+                            <p>Girl</p>
+                            <p>@ViewBag.idCate</p>
+                            <p>@Model.MATERIAL</p>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="tab-pane fade" id="baoquan" role="tabpanel" aria-labelledby="profile-tab">
+                        @Model.HDBQ
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    const chooseSize = () => {
+        let size = document.getElementById("size").value
+        let textSize = document.getElementById("textSize")
+        if (size != "") {
+            textSize.style.display = "none"
+        }
+    }
+
+    const changeSizeS = () => {
+        document.getElementById("size").value = "S"
+        chooseSize()
+    }
+    const changeSizeM = () => {
+        document.getElementById("size").value = "M"
+        chooseSize()
+    }
+    const changeSizeL = () => {
+        document.getElementById("size").value = "L"
+        chooseSize()
+    }
+    const changeSizeXL = () => {
+        document.getElementById("size").value = "XL"
+        chooseSize()
+    }
+</script>

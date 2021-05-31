@@ -1,0 +1,464 @@
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\csc.rsp
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\csi.exe
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\csi.rsp
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Antlr3.Runtime.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\EntityFramework.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Owin.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.Helpers.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.Mvc.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.Optimization.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.Razor.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.WebPages.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\WebGrease.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.Helpers.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.Mvc.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.Optimization.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.Razor.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.WebPages.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Antlr3.Runtime.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\EntityFramework.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\WebActivatorEx.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\DataIO.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\DataProvider.dll
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\DataIO.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\DataIO.dll.config
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\DataProvider.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\FinalProject\FinalProject\bin\DataProvider.dll.config
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.exe
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.rsp
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csi.exe
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csi.rsp
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.exe
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Antlr3.Runtime.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Owin.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Helpers.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Mvc.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Optimization.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Razor.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\WebActivatorEx.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\WebGrease.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.dll.config
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.dll.config
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Helpers.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Mvc.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Optimization.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Razor.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Antlr3.Runtime.pdb
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\HP\OneDrive\Máy tính\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.dll.config
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.pdb
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.exe
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.rsp
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csi.exe
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csi.rsp
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.exe
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Antlr3.Runtime.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.SqlServer.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Web.Infrastructure.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Newtonsoft.Json.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Owin.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Helpers.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Mvc.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Optimization.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Razor.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\WebActivatorEx.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\WebGrease.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.pdb
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.dll.config
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.pdb
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.dll.config
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.SqlServer.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Helpers.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Mvc.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Optimization.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Razor.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Newtonsoft.Json.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Antlr3.Runtime.pdb
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+D:\C# project\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.dll.config
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.pdb
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.exe
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.rsp
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csi.exe
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csi.rsp
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.exe
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Antlr3.Runtime.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.SqlServer.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Web.Infrastructure.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Newtonsoft.Json.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Owin.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Helpers.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Mvc.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Optimization.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Razor.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\WebActivatorEx.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\WebGrease.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.pdb
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.dll.config
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.pdb
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.dll.config
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.SqlServer.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Helpers.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Mvc.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Optimization.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Razor.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Newtonsoft.Json.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Antlr3.Runtime.pdb
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+T:\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+T:\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+T:\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+T:\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+T:\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.dll.config
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\FinalProject.pdb
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.exe
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.exe.config
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csc.rsp
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csi.exe
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\csi.rsp
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.AppContext.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.exe
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.exe.config
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\vbc.rsp
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Antlr3.Runtime.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.SqlServer.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Web.Infrastructure.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Newtonsoft.Json.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Owin.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Helpers.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Mvc.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Optimization.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Razor.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\WebActivatorEx.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\WebGrease.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.pdb
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataIO.dll.config
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.pdb
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\DataProvider.dll.config
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\EntityFramework.SqlServer.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Helpers.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Mvc.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Optimization.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.Razor.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Deployment.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\System.Web.WebPages.Razor.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Newtonsoft.Json.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Antlr3.Runtime.pdb
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Google.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csprojAssemblyReference.cache
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\PagedList.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\PagedList.Mvc.dll
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\PagedList.xml
+D:\DOWNLOAD\1\FP\BaiTapCuoiKi\FinalProject\FinalProject\bin\PagedList.Mvc.xml

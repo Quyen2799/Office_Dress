@@ -1,0 +1,293 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<section class="clothes container " >
+    <div class="clothesContent mx-auto">
+        <h2>SẢN PHẨM MỚI NHẤT</h2>
+        <p>Các sản phẩm nổi bật theo từng loại sản phẩm</p>
+        <nav>
+            <div class="nav nav-tabs mx-auto" id="nav-tab" role="tablist">
+                <a class="nav-link active" id="nav-home-tab" data-toggle="tab" href="#dam" role="tab" aria-controls="nav-home" aria-selected="true">ĐẦM</a>
+                <a class="nav-link" id="nav-profile-tab" data-toggle="tab" href="#vay" role="tab" aria-controls="nav-profile" aria-selected="false">VÁY</a>
+                <a class="nav-link" id="nav-contact-tab" data-toggle="tab" href="#doCongSo" role="tab" aria-controls="nav-contact" aria-selected="false">ĐỒ CÔNG SỞ</a>
+                <a class="nav-link" id="nav-contact-tab" data-toggle="tab" href="#sanPhamKhac" role="tab" aria-controls="nav-contact" aria-selected="false">SẢN PHẨM KHÁC</a>
+            </div>
+        </nav>
+    </div>
+    <div class="tab-content" id="nav-tabContent">
+                <div class="tab-pane fade show active" id="dam" role="tabpanel" aria-labelledby="nav-home-tab">
+                    <div class="clothes-container dam-container row text-center">
+                        @foreach (DataProvider.Product pro in ViewBag.list1)
+                        {
+                            <div class="clothes-item col-lg-4 col-md-4 wow bounceInLeft">
+                                <div class="clothes-img">
+                                    <img src="~/Content/Images/@pro.PRODUCTIMAGE" alt="">
+                                    <div class="clothes-icon">
+                                        <div class="icon-item icon-item1">
+                                            <a href="~/Store/Details/@pro.ID">
+                                                <button><i class="fa fa-search"></i></button>
+                                            </a>
+                                        </div>
+                                        <div class="icon-item icon-item2">
+                                            <a href="~/Store/Details/@pro.ID">
+                                                <button><p>MUA NGAY</p></button>
+                                            </a>
+                                        </div>
+                                        <div class="icon-item icon-item3">
+                                            <a href="~/ShoppingCart/AddToCart/@pro.ID">
+                                                <button><i class="fa fa-shopping-cart"></i></button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clothes-text">
+                                    <h4>@pro.PRODUCTNAME</h4>
+                                    <p>@pro.PRICE đ</p>
+                                    <p>_new_</p>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="vay" role="tabpanel" aria-labelledby="nav-profile-tab">
+                    <div class="clothes-container dam-container row text-center">
+                        @foreach (DataProvider.Product pro in ViewBag.list2)
+                        {
+                            <div class="clothes-item col-lg-4 col-md-4 wow bounceInLeft">
+                                <div class="clothes-img">
+                                    <img src="~/Content/Images/@pro.PRODUCTIMAGE" alt="">
+                                    <div class="clothes-icon">
+                                        <div class="icon-item icon-item1">
+                                            <a href="~/Store/Details/@pro.ID">
+                                                <button><i class="fa fa-search"></i></button>
+                                            </a>
+                                        </div>
+                                        <div class="icon-item icon-item2">
+                                            <a href="~/Store/Details/@pro.ID">
+                                                <button><p>MUA NGAY</p></button>
+                                            </a>
+                                        </div>
+                                        <div class="icon-item icon-item3">
+                                            <a href="~/ShoppingCart/AddToCart/@pro.ID">
+                                                <button><i class="fa fa-shopping-cart"></i></button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clothes-text">
+                                    <h4>@pro.PRODUCTNAME</h4>
+                                    <p>@pro.PRICE đ</p>
+                                    <p>_new_</p>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="doCongSo" role="tabpanel" aria-labelledby="nav-contact-tab">
+                    <div class="clothes-container dam-container row text-center">
+                        @foreach (DataProvider.Product pro in ViewBag.list4)
+                        {
+                            <div class="clothes-item col-lg-4 col-md-4 wow bounceInLeft">
+                                <div class="clothes-img">
+                                    <img src="~/Content/Images/@pro.PRODUCTIMAGE" alt="">
+                                    <div class="clothes-icon">
+                                        <div class="icon-item icon-item1">
+                                            <a href="~/Store/Details/@pro.ID">
+                                                <button><i class="fa fa-search"></i></button>
+                                            </a>
+                                        </div>
+                                        <div class="icon-item icon-item2">
+                                            <a href="~/Store/Details/@pro.ID">
+                                                <button><p>MUA NGAY</p></button>
+                                            </a>
+                                        </div>
+                                        <div class="icon-item icon-item3">
+                                            <a href="~/ShoppingCart/AddToCart/@pro.ID">
+                                                <button><i class="fa fa-shopping-cart"></i></button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clothes-text">
+                                    <h4>@pro.PRODUCTNAME</h4>
+                                    <p>@pro.PRICE đ</p>
+                                    <p>_new_</p>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <div class="tab-pane fade" id="sanPhamKhac" role="tabpanel" aria-labelledby="nav-contact-tab">
+                    <div class="clothes-container dam-container row text-center">
+                        @foreach (DataProvider.Product pro in ViewBag.list4)
+                        {
+                            <div class="clothes-item col-lg-4 col-md-4 wow bounceInLeft">
+                                <div class="clothes-img">
+                                    <img src="~/Content/Images/@pro.PRODUCTIMAGE" alt="">
+                                    <div class="clothes-icon">
+                                        <div class="icon-item icon-item1">
+                                            <a href="~/Store/Details/@pro.ID">
+                                                <button><i class="fa fa-search"></i></button>
+                                            </a>
+                                        </div>
+                                        <div class="icon-item icon-item2">
+                                            <a href="~/Store/Details/@pro.ID">
+                                                <button><p>MUA NGAY</p></button>
+                                            </a>
+                                        </div>
+                                        <div class="icon-item icon-item3">
+                                            <a href="~/ShoppingCart/AddToCart/@pro.ID">
+                                                <button><i class="fa fa-shopping-cart"></i></button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="clothes-text">
+                                    <h4>@pro.PRODUCTNAME</h4>
+                                    <p>@pro.PRICE đ</p>
+                                    <p>_new_</p>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+    </div>
+</section>
+
+<section class="laydy-portrait container-fluid row ">
+    <div class="laydy-portrait-item col-md-6 wow bounceInLeft" data-wow-delay="500ms">
+        <a href="#"><img src="~/Content/Images/lady-portrait.jpg" alt=""></a>
+    </div>
+    <div class="laydy-portrait-item col-md-6 wow bounceInRight wow bounceInRight" data-wow-delay="1000ms">
+        <a href="#"><video src="~/Content/Images/lay-portrait1.mp4" autoPlay loop muted></video></a>
+    </div>
+</section>
+
+<section class="product-content ">
+    <h2>SẢN PHẨM BÁN CHẠY NHẤT</h2>
+    <div class="owl-carousel owl-theme clothes-container dam-container text-center">
+        <div>
+            <div class="clothes-img">
+                <img src="~/Content/Images/Clothes1.jpg" alt="">
+                <div class="clothes-icon">
+                    <div class="icon-item icon-item1">
+                        <button><i class="fa fa-search"></i></button>
+                    </div>
+                    <div class="icon-item icon-item2">
+                        <button><p>MUA NGAY</p></button>
+                    </div>
+                    <div class="icon-item icon-item3">
+                        <button><i class="fa fa-shopping-bag"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clothes-img">
+            <img src="~/Content/Images/Clothes2.jpg" alt="">
+            <div class="clothes-icon">
+                <div class="icon-item icon-item1">
+                    <button><i class="fa fa-search"></i></button>
+                </div>
+                <div class="icon-item icon-item2">
+                    <button><p>MUA NGAY</p></button>
+                </div>
+                <div class="icon-item icon-item3">
+                    <button><i class="fa fa-shopping-bag"></i></button>
+                </div>
+            </div>
+        </div>
+        <div class="clothes-img">
+            <img src="~/Content/Images/Clothes3.jpg" alt="">
+            <div class="clothes-icon">
+                <div class="icon-item icon-item1">
+                    <button><i class="fa fa-search"></i></button>
+                </div>
+                <div class="icon-item icon-item2">
+                    <button><p>MUA NGAY</p></button>
+                </div>
+                <div class="icon-item icon-item3">
+                    <button><i class="fa fa-shopping-bag"></i></button>
+                </div>
+            </div>
+        </div>
+        <div class="clothes-img">
+            <img src="~/Content/Images/Clothes4.jpg" alt="">
+            <div class="clothes-icon">
+                <div class="icon-item icon-item1">
+                    <button><i class="fa fa-search"></i></button>
+                </div>
+                <div class="icon-item icon-item2">
+                    <button><p>MUA NGAY</p></button>
+                </div>
+                <div class="icon-item icon-item3">
+                    <button><i class="fa fa-shopping-bag"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="blogs container wow bounceInRight" data-wow-delay="500ms"  id="blogs">
+    <h2>TIN TỨC THỜI TRANG</h2>
+    <div class="blogsContent row">
+        <div class="blogsItem col-lg-4">
+            <div class="blogImg">
+                <img src="~/Content/Images/Blog1.jpg" />
+            </div>
+            <div class="blogText">
+                <p>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 20">
+                        <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z" />
+                        <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" />
+                    </svg> 21/4/2021
+                </p>
+                <h4>Bạn đã sẵn sàng cho mùa hè này chưa?</h4>
+                <p class="textP">
+                    Cùng M2 chào đón mùa hè rực rỡ với hàng ngàn items hấp dẫn cho nàng.
+                    Với thiết kế trẻ trung, tươi mới cùng chất liệu vô cùng nhẹ nhàng,
+                    thông thoáng giúp nàng biến hóa hoàn hảo với mọi phong cách.▷ Đặt hàng trực tiếp ...
+                </p>
+            </div>
+        </div>
+        <div class="blogsItem col-lg-4">
+            <div class="blogImg">
+                <img src="~/Content/Images/Blog4.jpg" />
+            </div>
+            <div class="blogText">
+                <p>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 20">
+                        <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z" />
+                        <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" />
+                    </svg> 21/4/2021
+                </p>
+                <h4>Bạn đã sẵn sàng cho mùa hè này chưa?</h4>
+                <p class="textP">
+                    Cùng M2 chào đón mùa hè rực rỡ với hàng ngàn items hấp dẫn cho nàng.
+                    Với thiết kế trẻ trung, tươi mới cùng chất liệu vô cùng nhẹ nhàng,
+                    thông thoáng giúp nàng biến hóa hoàn hảo với mọi phong cách.▷ Đặt hàng trực tiếp ...
+                </p>
+            </div>
+        </div>
+        <div class="blogsItem col-lg-4">
+            <div class="blogImg">
+                <img src="~/Content/Images/saleBlog1.jpg" />
+            </div>
+            <div class="blogText">
+                <p>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 20">
+                        <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z" />
+                        <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z" />
+                    </svg> 21/4/2021
+                </p>
+                <h4>Bạn đã sẵn sàng cho mùa hè này chưa?</h4>
+                <p class="textP">
+                    Cùng M2 chào đón mùa hè rực rỡ với hàng ngàn items hấp dẫn cho nàng.
+                    Với thiết kế trẻ trung, tươi mới cùng chất liệu vô cùng nhẹ nhàng,
+                    thông thoáng giúp nàng biến hóa hoàn hảo với mọi phong cách.▷ Đặt hàng trực tiếp ...
+                </p>
+            </div>
+        </div>
+    </div>
+</section>

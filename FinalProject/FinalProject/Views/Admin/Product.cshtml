@@ -1,0 +1,97 @@
+﻿
+@model IEnumerable<DataProvider.Product>
+@{
+    ViewBag.Title = "Product";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="dashboard-main-wrapper">
+    <div class="dashboard-wrapper">
+        <div class="dashboard-ecommerce">
+            <div class="container-fluid dashboard-content ">
+                <h2>Index</h2>
+
+                <p>
+                    @Html.ActionLink("Create New", "Create")
+                </p>
+                <table class="table">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.ID)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.PRODUCTNAME)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.IDCATE)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.SIZE)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.PRICE)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.MATERIAL)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.HDBQ)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.PRODUCTIMAGE)
+                        </th>
+                        <th></th>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ID)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PRODUCTNAME)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Category.CATEGORYNAME)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.SIZE)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.PRICE)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.MATERIAL)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.HDBQ)
+                            </td>
+                            <td>
+                                <img class="img-responsive" src="~/Content/Images/@(item.PRODUCTIMAGE)" style="width:70px; height: 100px">
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+                <div>
+                    @Html.ActionLink("Back to manage", "Index", "Admin")
+                </div>
+            </div>
+            <!-- ============================================================== -->
+            <!-- footer -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- end footer -->
+            <!-- ============================================================== -->
+        </div>
+        <!-- ============================================================== -->
+        <!-- end wrapper  -->
+        <!-- ============================================================== -->
+    </div>
+</div>
+

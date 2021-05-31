@@ -1,0 +1,60 @@
+﻿@model DataProvider.Blog
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TITLE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TITLE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CONTENT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CONTENT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DATEPOST)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DATEPOST)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BLOGIMAGE)
+        </dt>
+        <dd>
+            <img class="img-responsive" src="~/Content/Images/@(Model.BLOGIMAGE)" style="width:200px; height: 300px">
+        </dd>
+        <p class="button">
+            @Html.ActionLink("Add to cart", "AddToCart", "ShoppingCart", new { id = Model.ID }, "")
+        </p>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

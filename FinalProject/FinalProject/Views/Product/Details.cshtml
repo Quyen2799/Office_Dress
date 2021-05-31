@@ -1,0 +1,84 @@
+﻿@model DataProvider.Product
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PRODUCTNAME)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PRODUCTNAME)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.IDCATE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IDCATE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SIZE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SIZE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PRICE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PRICE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MATERIAL)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MATERIAL)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HDBQ)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HDBQ)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PRODUCTIMAGE)
+        </dt>
+        <dd>
+            <img class="img-responsive" src="~/Content/Images/@(Model.PRODUCTIMAGE)" style="width:200px; height: 300px">
+        </dd>
+        <p class="button">
+            @Html.ActionLink("Add to cart", "AddToCart", "ShoppingCart", new { id = Model.ID }, "")
+        </p>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

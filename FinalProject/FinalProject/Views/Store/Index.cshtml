@@ -1,0 +1,73 @@
+﻿@model Tuple<List<DataProvider.Category>,List<DataProvider.Product>>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+<br />
+<div class="container">
+<div class="row dam-container">
+    <div class="col-xs-12 col-md-2">
+        <ul class="nav nav-pills nav-stacked" style="display:block; text-decoration: none; text-align: center;">
+            @using (Html.BeginForm("Index", "Store", FormMethod.Get))
+            {
+                <p>
+                    <br />
+                    @Html.TextBox("SearchName", ViewBag.CurrentFilter as string, new { style = "width: 160px;" })
+                    <input type="submit" value="Search" style="margin: 2px auto; display:block"/>
+                </p>
+            }
+            @foreach (DataProvider.Category item in Model.Item1)
+            {
+                if (item.CATEGORYNAME == item.CATEGORYNAME)
+                {
+                    <li class="active">
+                        <a href="~/Store/Index/@item.ID" style="text-decoration: none;">@item.CATEGORYNAME</a><br />
+                    </li>
+                }
+                else
+                {
+                    <li>
+                        <a href="~/Store/Index/@item.ID" style="text-decoration: none;">@item.CATEGORYNAME</a><br />
+                    </li>
+                }
+
+            }
+        </ul>
+    </div>
+    <div class="col-xs-12 col-md-10  text-center">
+        <div class="row">
+            @foreach (var product in Model.Item2)
+            {
+                <div class="clothes-item col-lg-3 col-md-3">
+                    <div class="clothes-img">
+                        <img src="~/Content/Images/@(product.PRODUCTIMAGE)" alt="">
+                        <div class="clothes-icon">
+                            <div class="icon-item icon-item1">
+                                <a href="~/Store/Details/@product.ID">
+                                    <button><i class="fa fa-search"></i></button>
+                                </a>
+                            </div>
+                            <div class="icon-item icon-item2">
+                                @*<a href="~/Store/Details/@product.ID">
+                                    <button><b>MUA NGAY</b></button>
+                                </a>*@
+                             
+                            </div>
+                            <div class="icon-item icon-item3">
+                                <a href="~/ShoppingCart/AddToCart/@product.ID">
+                                    <button><i class="fa fa-shopping-cart"></i></button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clothes-text">
+                        <h4>@product.PRODUCTNAME</h4>
+                        <p>@product.PRICE VNĐ</p>
+                        <p>_new_</p>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+</div>
