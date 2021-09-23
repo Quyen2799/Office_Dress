@@ -25,12 +25,5 @@ namespace DataProvider
         public DateTime? DateCreated { get; set; }
 
         public virtual Product Product { get; set; }
-
-
-
-        [Column(TypeName = "date")]
-        public DateTime? DateCreated { get; set; }
-
-        public virtual Product Product { get; set; }
     }
 }
