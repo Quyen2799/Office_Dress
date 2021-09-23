@@ -30,6 +30,13 @@ namespace DataProvider
         [ScaffoldColumn(false)]
         public int TOTALPRICE { get; set; }
 
+
+        [StringLength(15)]
+        public string PHONE { get; set; }
+
+        [ScaffoldColumn(false)]
+        public int TOTALPRICE { get; set; }
+
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<OrderDetail> OrderDetails { get; set; }
     }

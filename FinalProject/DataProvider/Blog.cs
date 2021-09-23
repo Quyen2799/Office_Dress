@@ -20,7 +20,17 @@ namespace DataProvider
         [StringLength(4000)]
         public string CONTENT { get; set; }
 
-        [StringLength(100)]
+        [StringLength(600)]
+        public string BLOGIMAGE { get; set; }
+
+
+        [StringLength(200)]
+        public string TITLE { get; set; }
+
+        [StringLength(4000)]
+        public string CONTENT { get; set; }
+
+        [StringLength(600)]
         public string BLOGIMAGE { get; set; }
     }
 }
